@@ -136,6 +136,27 @@ CREATE TABLE IF NOT EXISTS `mydb`.`RegistroClientes` (
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
+-- -----------------------------------------------------
+-- Table `mydb`.`Pedidos`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mydb`.`Pedidos` (
+
+
+)
+
+
+-- -----------------------------------------------------
+-- Table `mydb`.`Producto`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mydb`.`Producto` (
+
+
+)
+  
+  
+  
+  
+  
 
 SET SQL_MODE=@OLD_SQL_MODE;
 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
